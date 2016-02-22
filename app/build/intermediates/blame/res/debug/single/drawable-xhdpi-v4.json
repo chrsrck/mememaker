@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/chrsrck/AndroidStudioProjects/mememaker/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/import_action.png",
+        "source": "/Users/chrsrck/AndroidStudioProjects/mememaker/app/src/main/res/drawable-xhdpi/import_action.png"
+    },
+    {
+        "merged": "/Users/chrsrck/AndroidStudioProjects/mememaker/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/treehouse_icon.png",
+        "source": "/Users/chrsrck/AndroidStudioProjects/mememaker/app/src/main/res/drawable-xhdpi/treehouse_icon.png"
+    },
+    {
+        "merged": "/Users/chrsrck/AndroidStudioProjects/mememaker/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/chrsrck/AndroidStudioProjects/mememaker/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
